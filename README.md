@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi.
+
+This my first step to explore git world.
+
+我叫赵伟坤。
